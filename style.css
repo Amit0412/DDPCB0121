@@ -1,0 +1,58 @@
+body
+{
+    border: 60px solid transparent;
+    text-align: center;
+    padding: 30px;
+    width: 30%;
+    margin-left: 430px;
+    margin-top: 150px;
+    border-image: url("https://us.123rf.com/450wm/alonastep/alonastep1604/alonastep160400089/55412695-gold-frame-beautiful-simple-golden-design-vintage-style-decorative-border-isolated-on-white-backgrou.jpg?ver=6") 30% round;
+    
+}
+#comp
+{
+    background-image: url("https://swall.teahub.io/photos/small/287-2875977_ombre-background.png");
+    background-size:600px;
+    
+    background-repeat: no-repeat;
+    
+    
+}
+#clit
+{
+    padding: 10px;
+    background-color: tomato;
+    
+    
+}
+
+#clit:hover
+{
+    background-color: blueviolet;
+    color: white;
+    font-size: 25px;
+    
+    
+}
+#dlit
+{
+    background-color: violet;
+    padding: 10px;
+}
+#dlit:hover
+{
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+}
+.cot
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-shadow:2px 2px 2px red;
+    text-decoration: none;
+}
+
+
+
+   
