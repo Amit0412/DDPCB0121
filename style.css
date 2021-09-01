@@ -56,12 +56,24 @@ body
 {
     #comp
     {
-       width:160%;
+       width:145%;
        background-size: contain contain;
     }
     #body
     {
-        width: 160%;
+        width: 145%;
+    }
+    .cot
+    {
+        font-size: small;
+    }
+    #clit
+    {
+        padding: 6px;
+    }
+    #dlit
+    {
+        padding: 6px;
     }
     
 }
